@@ -300,8 +300,6 @@ Temp/
 /*.csproj
 
 # ColaFramework AutoBuild
-Sirenix/
-Sirenix.meta
 CDN/
 StreamingAssets/
 StreamingAssets.meta
